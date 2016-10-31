@@ -19,5 +19,10 @@ I mean so far this is cool and all but it gets better! You don't need to know a 
 Subject|Summary|Teacher|Date
 ---|---|---|---
 Lunch and Learn Repo|Show the existance of this repo and teach how to use it.|Danny|November 4 2016
+Jenkins... and you|Learn about our automation server|Jesse?|?
 
 ## Subjects We Already Learned
+Subject|Summary|Teacher|Date
+---|---|---|---
+Carla in Vegas|What happened in vegas... gets talked about|Martin|October 28 2016
+Spacemacs... and you|Emacs? Vim? Both??|Barak|October 21 2016
