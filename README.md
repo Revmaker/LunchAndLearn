@@ -19,5 +19,6 @@ I mean so far this is cool and all but it gets better! You don't need to know a 
 Subject|Summary|Teacher|Date
 ---|---|---|---
 Lunch and Learn Repo|Show the existance of this repo and teach how to use it.|Danny|November 4 2016
+Functional Programming|Basics of function programming|Sam?|?
 
 ## Subjects We Already Learned
