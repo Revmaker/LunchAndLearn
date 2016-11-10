@@ -21,6 +21,7 @@ Subject|Summary|Teacher|Date
 ---|---|---|---
 Jenkins... and you|Learn about our automation server|Jesse|November 11 2016
 Functional Programming|Basics of function programming|Sam|November 18 2016
+Machine Learning|Introduction to machine learning|Kevin|?
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
