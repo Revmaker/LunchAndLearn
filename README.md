@@ -23,6 +23,7 @@ Lunch and Learn Repo|Show the existence of this repo and teach how to use it.|Da
 Jenkins... and you|Learn about our automation server|Jesse|November 11 2016
 Functional Programming|Basics of function programming|Sam|November 18 2016
 The Data Pipeline... and you|Learn about CarLabs' data pipeline|Sandy|December 2 2016
+Machine Learning|Building a NER with SpaCy (or CoreNLP)|Kevin|December 16 2016
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
