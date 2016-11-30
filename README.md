@@ -19,6 +19,7 @@ I mean so far this is cool and all but it gets better! You don't need to know a 
 ## Subjects We Want To Learn
 Subject|Summary|Teacher|Date
 ---|---|---|---
+Data Pipeline|The Data Pipeline... and YOU!|Sandy|December 2 2016
 NLP|RASA NLU... and you|Kevin|December 16 2016
 
 ## Subjects We Already Learned
