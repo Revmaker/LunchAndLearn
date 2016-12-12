@@ -19,13 +19,13 @@ I mean so far this is cool and all but it gets better! You don't need to know a 
 ## Subjects We Want To Learn
 Subject|Summary|Teacher|Date
 ---|---|---|---
-Data Pipeline|The Data Pipeline... and YOU!|Sandy|December 2 2016
 NLP|RASA NLU... and you|Kevin|December 16 2016
 Elixir|Basics to Elixir|Barak|December 23 2016
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
 ---|---|---|---
+Data Pipeline|The Data Pipeline... and YOU!|Sandy|December 2 2016
 Functional Programming|Basics of function programming|Sam|November 18 2016
 Jenkins... and you|Learn about our automation server|Jesse|November 11 2016
 Lunch and Learn Repo|Show the existence of this repo and teach how to use it.|Danny|November 4 2016
