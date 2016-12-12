@@ -21,6 +21,7 @@ Subject|Summary|Teacher|Date
 ---|---|---|---
 Data Pipeline|The Data Pipeline... and YOU!|Sandy|December 2 2016
 NLP|RASA NLU... and you|Kevin|December 16 2016
+Elixir|Basics to Elixir|Barak|December 23 2016
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
