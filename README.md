@@ -19,8 +19,8 @@ I mean so far this is cool and all but it gets better! You don't need to know a 
 ## Subjects We Want To Learn
 Subject|Summary|Teacher|Date
 ---|---|---|---
-NLP|RASA NLU... and you|Kevin|December 16 2016
 Elixir|Basics to Elixir|Barak|December 23 2016
+NLP|RASA NLU... and you|Kevin|January 6 2016
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
