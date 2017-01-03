@@ -20,6 +20,7 @@ I mean so far this is cool and all but it gets better! You don't need to know a 
 Subject|Summary|Teacher|Date
 ---|---|---|---
 NLP|RASA NLU... and you|Kevin|January 6 2016
+Python|Python.. and you|Barak|January 13 2016
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
