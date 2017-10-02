@@ -22,6 +22,7 @@ Subject|Summary|Teacher|Date
 NLP|RASA NLU... and you|Kevin|January 6 2016
 Python|Python.. and you|Barak|January 13 2016
 ML|Logisitics Regression |Kevin|March 10 2016
+Airflow|Airflow And You|Danny|October 3 2017
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
