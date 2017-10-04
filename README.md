@@ -21,9 +21,9 @@ Airflow | Airflow And You | Danny | October 3 2017
 ML | Logisitics Regression | Kevin | March 10 2016
 Python | Python.. and you | Barak | January 13 2016
 NLP | RASA NLU... and you | Kevin | January 6 2016
-Elixir | Basics to Elixir | Barak | December 23 2016
+Elixir | Basics to Elixir (code in repo) | Barak | December 23 2016
 Data Pipeline | The Data Pipeline... and YOU! | Sandy |December 2 2016
-Functional Programming | Basics of function programming |Sam | November 18 2016
+Functional Programming | [Basics of function programming](https://docs.google.com/presentation/d/1d2fo9KzeSzrw3k0BwfjL_4ggrqcQRYz9G_tMUjX69Vk/edit?usp=sharing) |Sam | November 18 2016
 Jenkins... and you | Learn about our automation server |Jesse | November 11 2016
 Lunch and Learn Repo | Show the existence of this repo and teach how to use it. | Danny | November 4 2016
 Carla in Vegas | What happened in Vegas... gets talked about|Martin|October 28 2016
