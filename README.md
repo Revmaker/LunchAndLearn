@@ -19,14 +19,18 @@ I mean so far this is cool and all but it gets better! You don't need to know a 
 ## Subjects We Want To Learn
 Subject|Summary|Teacher|Date
 ---|---|---|---
-NLP|RASA NLU... and you|Kevin|January 6 2016
-Python|Python.. and you|Barak|January 13 2016
-ML|Logisitics Regression |Kevin|March 10 2016
-Airflow|Airflow And You|Danny|October 3 2017
+New ways of testing|Property-based testing in JavaScript with JSVerify|Sam|October 10 2017
+
+
+
 
 ## Subjects We Already Learned
 Subject|Summary|Teacher|Date
 ---|---|---|---
+Airflow|Airflow And You|Danny|October 3 2017
+ML|Logisitics Regression |Kevin|March 10 2016
+Python|Python.. and you|Barak|January 13 2016
+NLP|RASA NLU... and you|Kevin|January 6 2016
 Elixir|Basics to Elixir|Barak|December 23 2016
 Data Pipeline|The Data Pipeline... and YOU!|Sandy|December 2 2016
 Functional Programming|Basics of function programming|Sam|November 18 2016
